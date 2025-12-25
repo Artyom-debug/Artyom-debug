@@ -3,7 +3,7 @@
   <b>.NET Developer</b> • Backend / APIs • Clean Architecture
 </p>
 
-<h1>🌐 My socials:</h1>
+##🌐 My socials:
 <p>
   <a href="https://t.me/Mefl15">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
