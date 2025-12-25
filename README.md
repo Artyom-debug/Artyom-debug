@@ -3,12 +3,12 @@
   <b>.NET Developer</b> • Backend / APIs • Clean Architecture
 </p>
 
-🌐 My socials:
-<p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
+<h1>🌐 My socials:</h1>
+<p>
+  <a href="https://t.me/Mefl15">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:artemmavcun57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
