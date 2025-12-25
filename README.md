@@ -3,7 +3,7 @@
   <b>.NET Developer</b> • Backend / APIs • Clean Architecture
 </p>
 
-<b>🌐 My socials:</b>
+## 🌐 My socials:
 <p>
   <a href="https://t.me/Mefl15">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
@@ -29,9 +29,4 @@ My focus: service design, integrations, database optimization, and CI/CD automat
 - 🚀 DevOps: Docker, GitHub Actions, basic Kubernetes/Azure
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artyom-debug&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-debug&layout=compact" />
-</p>
+
