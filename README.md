@@ -4,13 +4,14 @@
 </p>
 
 🌐 Connect me:
+<p>
   <a href="https://t.me/Mefl15">
-    <img alt="Telegram" height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:artemmavcun57@gmail.com">
-    <img alt="Email" height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
 
 ## 👨‍💻 About me
 I’m a .NET developer building reliable backend services and REST/gRPC APIs.  
@@ -18,7 +19,7 @@ I care about clean architecture, readable code, and measurable performance.
 My focus: service design, integrations, database optimization, and CI/CD automation.
 
 ## 🧰 Tech stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,windows, js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,windows)](https://skillicons.dev)
 
 ## 🛠 My skills
 - ⚙️ Backend: ASP.NET Core, Web API, gRPC, background services
