@@ -1,9 +1,9 @@
-<h1>Hi, I’m <b>Artem Mavchun</b> 👋</h1>
+<h1>Hi, I’m <b>Artyom Mavchun</b></h1>
 <p>
   <b>.NET Developer</b> • Backend / APIs • Clean Architecture
 </p>
 
-##🌐 My socials:
+<b>🌐 My socials:</b>
 <p>
   <a href="https://t.me/Mefl15">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
@@ -30,8 +30,8 @@ My focus: service design, integrations, database optimization, and CI/CD automat
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artyom-debug&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-debug&layout=compact" />
 </p>
